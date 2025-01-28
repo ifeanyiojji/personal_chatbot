@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 import random
 import nltk
-from nltk.tokenize import word_tokenize
 
 # Download necessary NLTK data
 #nltk.download('punkt')
