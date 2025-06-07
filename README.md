@@ -122,7 +122,7 @@ It is a safe-to-run demo application for personal or educational use.
 
 # 👤 Author
 Developed by Ifeanyi Ojji
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ifeanyi-ojji/) or [GitHub]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ifeanyi-ojji/) or [github.com/ifeanyiojji]
 
 # 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and share.
